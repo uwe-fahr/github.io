@@ -7,3 +7,6 @@ Hans Castorp ist die Hauptfigur aus dem "Zauberberg" von Thomas Mann. Hans fähr
 * offen für neues
 * bereit sich persönlich zu entwickeln
 * etwas fremd in der Welt
+
+Wie Hans Castorp sagte:
+> Das ist wirklich schön von euch
