@@ -10,3 +10,6 @@ Hans Castorp ist die Hauptfigur aus dem "Zauberberg" von Thomas Mann. Hans fähr
 
 Wie Hans Castorp sagte:
 > Das ist wirklich schön von euch
+
+<img src="D:\Wissenschaft\uebung1\github.io\P1050584.JPG/>
+
